@@ -4,11 +4,11 @@ const SECRET = ENV_BOT_SECRET // A-Z, a-z, 0-9, _ and -
 const ADMIN_UID = ENV_ADMIN_UID // your user id, get it from https://t.me/username_to_id_bot
 
 const NOTIFY_INTERVAL = 3600 * 1000;
-const fraudDb = 'https://raw.githubusercontent.com/LloydAsp/nfd/main/data/fraud.db';
-const notificationUrl = 'https://raw.githubusercontent.com/LloydAsp/nfd/main/data/notification.txt'
-const startMsgUrl = 'https://raw.githubusercontent.com/LloydAsp/nfd/main/data/startMessage.md';
+const fraudDb = 'https://raw.githubusercontent.com/gshtwy/nfd/main/data/fraud.db';
+const notificationUrl = 'https://raw.githubusercontent.com/gshtwy/nfd/main/data/notification.txt'
+const startMsgUrl = 'https://raw.githubusercontent.com/gshtwy/nfd/main/data/startMessage.md';
 
-const enable_notification = true
+const enable_notification = true  //false 关闭项目提示信息
 /**
  * Return url to telegram api, optionally with parameters added
  */
