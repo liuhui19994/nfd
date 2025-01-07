@@ -1,4 +1,4 @@
-Bot Created Via [NFD](https://github.com/gshtwy/nfd)
+Bot Created Via [NFD](https://github.com/liuhui19994/nfd)
 
 使用方法：
 
