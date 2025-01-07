@@ -8,7 +8,6 @@ Bot Created Via [NFD](https://github.com/gshtwy/nfd)
 - ==================
 - ☯️天诚秘书：是天诚私人助理有事请发消息 
 - ☯️私聊请联系 @MRTianCheng_bot
-- 🌐群组链接：https://t.me/cncomorg
-- 🌐频道链接：https://t.me/cloudflareorg
-- 🌐资源搜索：https://t.me/zyssorg
-- 🌐项目地址：https://github.com/gshtwy/nfd
+- 🌐群组链接：https://t.me/LC_jishu
+- 🌐频道链接：https://t.me/LC_keji
+- 🌐资源搜索：https://t.me/LC_SOSO
